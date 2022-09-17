@@ -21,11 +21,11 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.ownername = 'ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ'
+global.ownername = 'Albys Maker'
 // Other
-global.owner = ['628569175057','628569175057','628569175057']
+global.owner = ['6289603601341','6289603601341','6289603601341']
 global.premium = ['628569175057']
-global.packname = 'Hisoka Morrow'
+global.packname = 'BOT Albys Maker'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = './src/session'
